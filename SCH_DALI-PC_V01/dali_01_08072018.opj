@@ -1,0 +1,49 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\dali_01_08072018.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "8")
+    (OTHER_Part_Value "{Value}")
+    (OTHER_Netlist_File "DALI_01_08072018.asc")
+    (OTHER_Netlist_File2 "DALI_01_08072018.CMP")
+    (OTHER_View_Output "TRUE")
+    (OTHER_View_Output2 "FALSE")
+    (OTHER_Formatter "orpads2k64.dll")
+    (OTHER_PCB_Footprint "{IPC_FOOTPRINT}")
+    (OTHER_Switch0 "TRUE")
+    (OTHER_Switch1 "FALSE")
+    (OTHER_Switch2 "FALSE")
+    (OTHER_Switch3 "FALSE")
+    (OTHER_Switch4 "FALSE")
+    (OTHER_Switch5 "FALSE")
+    (OTHER_Switch6 "FALSE")
+    (NoModify))
+  (Folder "Outputs"
+    (File ".\dali_01_08072018.asc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (ISPCBBASICLICENSE "false")
+  (MPSSessionName "ttran")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\dali_01_08072018.dsn")
+      (Path "Design Resources" ".\dali_01_08072018.dsn" "Block diagram")
+      (Path "Design Resources" ".\dali_01_08072018.dsn" "ASIC")
+      (Path "Design Resources" ".\dali_01_08072018.dsn" "Audio")
+      (Path "Design Resources" ".\dali_01_08072018.dsn" "Power")
+      (Path "Design Resources" ".\dali_01_08072018.dsn" "Sensor")
+      (Path "Design Resources" ".\dali_01_08072018.dsn" "UI")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 496"))
+      (Tab 0))))
